@@ -1,0 +1,3 @@
+SEMANTIC_SCHOLAR_API_KEY=your_key_here
+IEEE_XPLORE_API_KEY=your_key_here
+LLM_API_KEY=your_key_here

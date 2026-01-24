@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Academic-focused styling */
+body {
+  @apply bg-gray-50 text-gray-900;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+}
+
+.academic-container {
+  @apply max-w-6xl mx-auto px-6 py-8;
+}
+
+.academic-card {
+  @apply bg-white border border-gray-200 rounded-lg shadow-sm p-6;
+}
+
+.academic-button {
+  @apply bg-academic-blue hover:bg-blue-800 text-white font-medium py-3 px-6 rounded-md transition-colors duration-200 disabled:bg-gray-400 disabled:cursor-not-allowed;
+}
+
+.academic-input {
+  @apply w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-academic-blue focus:border-transparent;
+}
+
+.citation-link {
+  @apply text-academic-blue hover:underline cursor-pointer font-medium;
+}
+
+.section-heading {
+  @apply text-2xl font-bold text-academic-navy mb-4 border-b-2 border-academic-blue pb-2;
+}
+
+.paper-card {
+  @apply border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow duration-200;
+}
+
+/* Academic content styling */
+.survey-content {
+  @apply font-serif text-lg leading-relaxed text-gray-800;
+}
+
+.survey-content p {
+  @apply mb-4;
+}
+
+.reference-list {
+  @apply space-y-2 text-sm;
+}
+
+.reference-item {
+  @apply border-l-4 border-academic-blue pl-4 py-2 hover:bg-gray-50;
+}
