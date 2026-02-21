@@ -272,10 +272,11 @@ University Engineering Mini-Project Team
 
 ## 📞 Support
 
-For questions or issues:
-1. Check backend/frontend README files
-2. Review implementation plan
-3. Test with example topics provided
+For more questions or issues:
+Contact :
+Neelam Joshi (Team Leader) - +91 7987130543
+Cheryl Cardoza - +91 9892947915
+Bipin P Kuruvilla - +91 9137406241
 
 ---
 
