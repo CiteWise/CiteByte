@@ -274,9 +274,9 @@ University Engineering Mini-Project Team
 
 For more questions or issues:
 Contact :
-Neelam Joshi (Team Leader) - +91 7987130543
-Cheryl Cardoza - +91 9892947915
-Bipin P Kuruvilla - +91 9137406241
+- Neelam Joshi (Team Leader) - +91 7987130543
+- Cheryl Cardoza - +91 9892947915
+- Bipin P Kuruvilla - +91 9137406241
 
 ---
 
